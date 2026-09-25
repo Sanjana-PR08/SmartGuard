@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 from datetime import datetime
 from pathlib import Path
 
-from risk_engine import calculate_risk
+from backend.risk_engine import calculate_risk
 
 
 # ============================================================
